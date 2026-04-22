@@ -1,0 +1,6 @@
+/dataset/*
+/new_dataset/*
+__pycache__/*
+*.pkl
+*.pth
+*.zip
