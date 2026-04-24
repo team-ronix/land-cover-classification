@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+rasterio
+scikit-learn
+joblib
+scikit-image
+optuna
+xgboost
+torch
+torchvision
+pillow
+transformers
+tqdm
+jupyter
+ipykernel
